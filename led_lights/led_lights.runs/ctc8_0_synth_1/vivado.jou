@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Fri Aug 18 10:25:18 2017
+# Process ID: 9312
+# Current directory: E:/ctc/led_lights/led_lights.runs/ctc8_0_synth_1
+# Command line: vivado.exe -log ctc8_0.vds -mode batch -messageDb vivado.pb -notrace -source ctc8_0.tcl
+# Log file: E:/ctc/led_lights/led_lights.runs/ctc8_0_synth_1/ctc8_0.vds
+# Journal file: E:/ctc/led_lights/led_lights.runs/ctc8_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ctc8_0.tcl -notrace

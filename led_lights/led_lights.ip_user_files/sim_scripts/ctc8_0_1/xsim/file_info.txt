@@ -1,0 +1,4 @@
+Language File-Name IP      Library         File-Path                                                     
+Verilog, ctc8.v,   ctc8_0, xil_defaultlib, ../../../../led_lights.srcs/sources_1/ip/ctc8_0_1/ctc8.v      
+Verilog, ctc8_0.v, ctc8_0, xil_defaultlib, ../../../../led_lights.srcs/sources_1/ip/ctc8_0_1/sim/ctc8_0.v
+Verilog, glbl.v,   *,      xil_defaultlib, glbl.v                                                        

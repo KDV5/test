@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.srcs/sources_1/ip/ctc8_0/ctc8_0_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctc8_0
+INFO: [VRFC 10-311] analyzing module ctc8_0_ctc8
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.srcs/sources_1/new/s_38.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module s_38
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.srcs/sources_1/new/clock_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.srcs/sources_1/new/led_lights.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_lights
+INFO: [VRFC 10-2458] undeclared symbol resetn, assumed default net type wire [E:/ctc/led_lights/led_lights.srcs/sources_1/new/led_lights.v:43]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.srcs/sim_1/new/led_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ctc/led_lights/led_lights.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [E:/ctc/led_lights/led_lights.sim/sim_1/behav/glbl.v:6]

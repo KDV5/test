@@ -1,0 +1,26 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto 53327ec199b44ea18a0de22e300175ba --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot led_sim_behav xil_defaultlib.led_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clock_div
+Compiling module xil_defaultlib.s_38
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.x_lut3_mux4
+Compiling module unisims_ver.x_lut3_mux4_reduced_0
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.ffsrce_fdpe
+Compiling module unisims_ver.FDPE
+Compiling module xil_defaultlib.ctc8_0_ctc8
+Compiling module xil_defaultlib.ctc8_0
+Compiling module xil_defaultlib.led_lights
+Compiling module xil_defaultlib.led_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot led_sim_behav
